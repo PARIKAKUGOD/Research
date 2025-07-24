@@ -1,5 +1,5 @@
 > 🔗 **Access the full interactive report at:**  
-> [https://parikakugod.github.io/Research/](https://parikakugod.github.io/Research/)  
+> [voluble-hamster-fbb882.netlify.app](voluble-hamster-fbb882.netlify.app)  
 > *(Best viewed on desktop; includes visualizations and secure formatting.)*
 
 <!--
