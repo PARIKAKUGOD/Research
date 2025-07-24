@@ -1,3 +1,7 @@
+> 🔗 **Access the full interactive report at:**  
+> [https://parikakugod.github.io/Research/](https://parikakugod.github.io/Research/)  
+> *(Best viewed on desktop; includes visualizations and secure formatting.)*
+
 <!--
    THE ULTIMATE RESEARCH REPORT: SECRET, BANNED, AND FORBIDDEN DARK PSYCHOLOGY BOOKS
    Research conducted by Amit | July 2025
