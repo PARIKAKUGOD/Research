@@ -1,5 +1,5 @@
 > 🔗 **Access the full interactive report at:**  
-> [voluble-hamster-fbb882.netlify.app](voluble-hamster-fbb882.netlify.app)  
+> [https://voluble-hamster-fbb882.netlify.app/](https://voluble-hamster-fbb882.netlify.app/)  
 > *(Best viewed on desktop; includes visualizations and secure formatting.)*
 
 <!--
